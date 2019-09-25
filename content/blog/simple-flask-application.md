@@ -3,6 +3,7 @@ author = "Praveen Kumar"
 categories = ["flask", "python"]
 date = "2019-09-25T18:50:00+00:00"
 description = "Creating new flask application in python 2 and as well as python 3"
+draft = true
 featured = "/uploads/flask-python.png"
 featuredalt = ""
 featuredpath = ""
