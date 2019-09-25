@@ -33,4 +33,5 @@ fields:
   name: type
   label: type
 pages:
+- content/blog/simple-flask-application.md
 - content/blog/pyorg.md
