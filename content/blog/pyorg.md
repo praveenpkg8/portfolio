@@ -11,16 +11,4 @@ title = "Pyorg"
 type = "post"
 
 +++
-+++
-author = "Hugo Future Imperfect Slim"
-categories = ["Markdown"]
-date = "2019-01-01"
-description = "Markdown and Shortcode Examples"
-featured = ""
-featuredalt = ""
-featuredpath = ""
-linktitle = ""
-title = "Markdown and Shortcodes"
-type = "post"
-
-+++
+### Python Blog Test
