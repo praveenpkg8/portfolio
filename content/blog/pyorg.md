@@ -8,7 +8,7 @@ featuredalt = ""
 featuredpath = ""
 linktitle = ""
 title = "Pyorg"
-type = ""
+type = "post"
 
 +++
 +++
