@@ -1,6 +1,6 @@
 ---
 label: Test Blog
-hide_body: false
+hide_body: true
 fields:
 - type: text
   name: Praveen
