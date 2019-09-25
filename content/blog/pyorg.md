@@ -68,4 +68,27 @@ The Culprit here is Google App Engine. For Google App Engine it really matters w
     if __name__ == '__main__':
         app.run()
 
-lhsdh
+## Before you begin
+
+1. To set up your Google Cloud Platform project, use the GCP Console:
+   1. Create a GCP project, create an App Engine app, and then enable billing in that project.  
+      [GO TO APP ENGINE](https://console.cloud.google.com/projectselector/appengine/create?lang=flex_python&st=true&_ga=2.181341410.-470095340.1568349525)
+
+      When prompted, select the [region](https://cloud.google.com/appengine/docs/locations) where you want your App Engine app located, and then enable billing. After your GCP project is created, the **Dashboard** opens.
+   2. Enable the Cloud Datastore, Cloud Storage JSON and Cloud SQL Admin APIs.
+
+      [ENABLE THE APIS](https://console.cloud.google.com/flows/enableapi?apiid=datastore.googleapis.com,datastore,storage_api,sqladmin.googleapis.com&redirect=https://console.cloud.google.com&_ga=2.181341410.-470095340.1568349525)
+2. Download, install, and initialize the Cloud SDK.  
+   [DOWNLOAD THE CLOUD SDK](https://cloud.google.com/sdk/docs/)
+3. Acquire local credentials for authenticating with GCP services.
+
+       $ gcloud auth application-default login
+4. Verify that your default project is correct.
+
+       $ gcloud config list
+
+   If the project ID listed in the output isn't the project that you intended to use for this tutorial, set the project.
+
+       gcloud config set project [YOUR_PROJECT_ID]
+
+   where `[YOUR_PROJECT_ID]` is the ID of the project that you created or chose to use for this tutorial.
