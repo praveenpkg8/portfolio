@@ -3,11 +3,13 @@ label: Test Blog
 hide_body: false
 fields:
 - type: text
-  name: author
-  label: author
+  name: Praveen
+  label: python
+  description: python code samples
 - type: list
-  name: categories
+  name: python
   label: categories
+  description: python description
 - type: datetime
   name: date
   label: date
