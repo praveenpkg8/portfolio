@@ -36,8 +36,13 @@ The Culprit here is Google App Engine. For Google App Engine it really matters w
 
 ### Creating a new flask applicaion. 
 
-Check for python installed in the system
+**Step 1** Check for python installed in the system
 
-\`$ python --version
+    $ python --version
+      Python 2.7.10 
 
-Python 2.7.10 \`
+**Step 2**Create a new project directory.
+
+    $ mkdir flaskapp && cd flaskapp
+
+**Step 3** Next step create a virtual environment
