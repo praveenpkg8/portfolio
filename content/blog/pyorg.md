@@ -45,4 +45,8 @@ The Culprit here is Google App Engine. For Google App Engine it really matters w
 
     $ mkdir flaskapp && cd flaskapp
 
-**Step 3** Next step create a virtual environment
+**Step 3** Next step create a virtual environment. Creating a virtual environment is important in flask application. Reason behind it simple, different project would require different dependency. We can explicitly maintain our project dependency only.
+
+    $ pip install virtualenv
+    $ virtualenv -p flaskEnv
+    $ source flaskEnv/bin/activate 
