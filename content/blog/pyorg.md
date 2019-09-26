@@ -35,7 +35,7 @@ The Culprit here is Google App Engine. For Google App Engine it really matters w
 
 ## Creating a Simple flask application.
 
-> Hola, I have Just wrote a seperate article about it check that out \[here\]([https://praveenpkg.netlify.com/blog/simple-flask-application/](https://praveenpkg.netlify.com/blog/simple-flask-application/ "https://praveenpkg.netlify.com/blog/simple-flask-application/"))
+> Hola, I have Just wrote a separate article about it check that out \[here\]([https://praveenpkg.netlify.com/blog/simple-flask-application/](https://praveenpkg.netlify.com/blog/simple-flask-application/ "here")
 
 ## Before you begin with GAE
 
