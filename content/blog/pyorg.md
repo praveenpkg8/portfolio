@@ -33,11 +33,11 @@ The Culprit here is Google App Engine. For Google App Engine it really matters w
 
 ***
 
-### Creating a Simple flask application.
+## Creating a Simple flask application.
 
 > Hola, I have Just wrote a seperate article about it check that out \[here\]([https://praveenpkg.netlify.com/blog/simple-flask-application/](https://praveenpkg.netlify.com/blog/simple-flask-application/ "https://praveenpkg.netlify.com/blog/simple-flask-application/"))
 
-## Before you begin
+## Before you begin with GAE
 
 1. To set up your Google Cloud Platform project, use the GCP Console:
    1. Create a GCP project, create an App Engine app, and then enable billing in that project.  
