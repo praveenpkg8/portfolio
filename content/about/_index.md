@@ -1,8 +1,8 @@
 +++
-title = "About"
 date = "2014-04-09"
-+++
+title = "About"
 
++++
 Hello, Pal!
 I'm Praveen and you have just landed on my site!
 
@@ -18,7 +18,7 @@ Learn more and contribute on [GitHub](https://github.com/praveenpkg8).
 
 ## On Terms
 
-I am MR. PRAVEEN KUMAR G, Junior Software Developer at FULL Creative. Finished my B.Tech Information Technology in Jeppiaar engineering college, Chennai. Besides academic, I have been involved in various activities of the Entrepreneurship cell and I was the CEO of entrepreneurship cell in my college. I have done interns in several organizations. 
+I am MR. PRAVEEN KUMAR G, Junior Software Developer at FULL Creative. Finished my B.Tech Information Technology in Jeppiaar engineering college, Chennai. Besides academic, I have been involved in various activities of the Entrepreneurship cell and I was the CEO of entrepreneurship cell in my college. I have done interns in several organizations.
 
 I am an ambitious individual who is looking to broaden my career path. However, I am open with new challenges and am willing to work hard to reach my goals. I enjoy contributing new ideas, I am self motivated and an excellent team player, this is one of my technical key strength.I work well under pressure and understand the importance of time management.
 
@@ -33,22 +33,24 @@ I run towards goals.
 I love to eat, play video games and travel whenever I can.
 
 #### RECRUITING SPECIALITIES:
-   __Developmental Languages  :__ Python, JavaScript, TypeScript, Java, C, C++
 
-   __Front-end development :__ React, Angular, Web-pack, Bootstrap, HTML, CSS
+**Developmental Languages  :** Python, JavaScript, TypeScript, Java, C, C++
 
-   __Back-end Development :__ Pyhton-Flask, SQLAlchemy, Swagger
+**Front-end development :** React, Angular, Web-pack, Bootstrap, HTML, CSS
 
-   __Cloud Technologies :__ Google Cloud Platform, Fire Base
+**Back-end Development :** Python-Flask, SQLAlchemy, Swagger
+
+**Cloud Technologies :** Google Cloud Platform, Fire Base
 
 #### MY CAPABILITY:
-   Confidence builder and public speaker.
+
+Confidence builder and public speaker.
 
 If you have a project I can help with ,please get in touch.
-If you'd like to learn more about how my skills and ideas can help your organizations, please reach out via __[LinkedIn](https://www.linkedin.com/in/praveenpkg8/)__ or my __[website](thepraveenpkg.firebaseapp.com).__
+If you'd like to learn more about how my skills and ideas can help your organizations, please reach out via [**LinkedIn**](https://www.linkedin.com/in/praveenpkg8/) or my [**website**](thepraveenpkg.firebaseapp.com)**.**
 
 I look forward to connecting with you !
 
-Have questions or suggestions? Feel free to __[open an issue on GitHub](https://github.com/praveenpkg8)__ or __[ask me on Twitter](https://twitter.com/praveenpkg8).__
+Have questions or suggestions? Feel free to [**open an issue on GitHub**](https://github.com/praveenpkg8) or [**ask me on Twitter**](https://twitter.com/praveenpkg8)**.**
 
 Thanks for reading!
