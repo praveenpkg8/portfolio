@@ -32,7 +32,15 @@ Excellent understanding of programming languages.
 I run towards goals.  
 I love to eat, play video games and travel whenever I can.
 
-#### RECRUITING SPECIALITIES:
+#### EXPERIENCE GAINED:
+
+From college first year I was fascinated in programming languages and coding contest. I started to have Internship experience at the end semester of second year. 
+
+Got exposure in Android application, how a **android application** would work in **Dotless Technology**. This gave me a confidence that I can build something. I designed a simple authentication application and activity navigation mechanism application. It was a one month internship period where I benefited learning this much.
+
+At the start of third year of college, I was awarded a government tender for designing a online web portal to monitor enrolled colleges. **EDII - Entrepreneurship Development Institute of India** had a **AIEDP** program where many technical institution would enroll in it to have entrepreneurial experience. Application core architecture design is to track the colleges using activity they performed in a academic year. I was in the core committee for drafting of architecture in the project. Developed **user interface** part with Angular.
+
+#### LEARNING TECH:
 
 **Developmental Languages  :** Python, JavaScript, TypeScript, Java, C, C++
 
