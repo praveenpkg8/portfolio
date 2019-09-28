@@ -36,13 +36,15 @@ I love to eat, play video games and travel whenever I can.
 
 From college first year I was fascinated in programming languages and coding contest. I started to have Internship experience at the end semester of second year. 
 
-Got exposure in Android application, how a **android application** would work in **Dotless Technology**. This gave me a confidence that I can build something. I designed a simple authentication application and activity navigation mechanism application. It was a one month internship period where I benefited learning this much.
+Got exposure in Android application, how a **android application** would work in **Dotless Technology**. This gave me a confidence that I can build something up. I have designed a simple authentication application and activity navigation mechanism application. It was a one month internship period where I benefited learning this much.
 
-At the start of third year of college, I was awarded a government tender for designing a online web portal to monitor enrolled colleges. **EDII - Entrepreneurship Development Institute of India** had a **AIEDP** program where many technical institution would enroll in it to have entrepreneurial experience. Application core architecture design is to track the colleges using activity they performed in a academic year. I was in the core committee for drafting of architecture in the project. Developed **user interface** part with Angular.
+At the start of third year of college, I was awarded a government tender for designing a online web portal to monitor enrolled colleges. **EDII - Entrepreneurship Development Institute of India** had a **AIEDP** program where many technical institution would enroll in it to have entrepreneurial experience. Application core architecture design is to track the colleges using activity they performed in a academic year. I was in the core committee for **drafting architecture of the project**. Developed **user interface** part with Angular.
 
 Learning frontend really made me to think that I am not a backend kind of a person. Internship at **UMM.Digital** really changed my perspective. Actually I applied for frontend internship, thanks to the people there. They give me a very important lesson that without know something we should not finalise. Developers out there asked me to explore **backend and backend services**. Soon I started to enjoy backend and backend services. I learnt proper **python, flask, networks and many things**. During the internship here I had worked on many projects and product architecture design. I made a discord bot to track promo-dodo activities of employee out there.I worked on building certain amount of the esport platform from user interface in Angular. They thought me what are **REST API'**s how they have become modern saviour.
 
 Next Destination in my tech career was **FULL Creative**. Earlier before working here my perspective about new technology is that it would take a year or six month to learn it. Here I learnt basics of **Google Cloud Platform** with in a week time. I never hosted my backend service to cloud before coming here. Now I know to host a backend application in Cloud services. Another task I took out of interest to learn **React and WebPack**. I developed a storyboard application. Implemented **OAuth 2.0, Tasks Queues, fetching contacts from Google Contact API, mailing to customers using Google App Engine mailing API**.
+
+Out of interest I am also trying to develop a Nymeria a twitter bot which would retweet tweets on specified hash tags. I have been trying to learn kubernetes and container orchestration for implementing complete micro services.
 
 #### LEARNING TECH:
 
@@ -53,6 +55,8 @@ Next Destination in my tech career was **FULL Creative**. Earlier before working
 **Back-end Development :** Python-Flask, SQLAlchemy, Swagger
 
 **Cloud Technologies :** Google Cloud Platform, Fire Base
+
+**General Tech** : Git, Docker
 
 #### MY CAPABILITY:
 
