@@ -3,7 +3,6 @@ author = "Praveen Kumar"
 categories = ["meetup", "packer", "terraform", "HarshiCorp"]
 date = "2019-09-28T12:30:00+00:00"
 description = "HashiCorp meetup after a long time."
-draft = true
 featured = ""
 featuredalt = ""
 featuredpath = ""
