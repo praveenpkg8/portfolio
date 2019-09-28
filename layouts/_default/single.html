@@ -1,16 +1,8 @@
 <!doctype html>
 <html lang="{{ .Page.Language | default "en" }}">
   {{ partial "head" . }}
-  <head>
-      <script async src="https://www.googletagmanager.com/gtag/js?id=G-7JG5TG1XCN"></script>
-      <script>
-        window.dataLayer = window.dataLayer || [];
-        function gtag(){dataLayer.push(arguments);}
-        gtag('js', new Date());
-      
-        gtag('config', 'G-7JG5TG1XCN');
-      </script>
-  </head>
+  {{ template "_internal/google_analytics.html" . }}
+  {{ template "_internal/google_analytics_async.html" . }}
   <body>
     {{ partial "site-header" . }}
     <div id="wrapper">
