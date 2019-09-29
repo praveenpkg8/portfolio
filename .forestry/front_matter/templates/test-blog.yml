@@ -33,6 +33,6 @@ fields:
   name: type
   label: type
 pages:
-- content/blog/my-first-hug-meetup.md
 - content/blog/pyorg.md
 - content/blog/simple-flask-application.md
+- content/blog/my-first-hug-meetup.md
