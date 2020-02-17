@@ -1,7 +1,7 @@
 +++
 author = "Praveen Kumar"
-categories = ["meetup", "packer", "terraform", "HarshiCorp"]
-date = "2019-09-28T12:30:00+00:00"
+categories = ["meetup", "packer", "terraform"]
+date = 2019-09-28T12:30:00Z
 description = "HashiCorp meetup after a long time."
 featured = "1508522484-share.jpg"
 featuredalt = ""
