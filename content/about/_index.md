@@ -8,7 +8,7 @@ I'm Praveen and you have just landed on my site!
 
 I have made some open source projects including:
 
-* [Gmail API Python Script] (https://github.com/praveenpkg8/gmail_api_script)
+* \[Gmail API Python Script\] (https://github.com/praveenpkg8/gmail_api_script)
 * [Story Board Webapp](https://github.com/praveenpkg8/webapp_storyboard)
 * [Story Board Services](https://github.com/praveenpkg8/full_service)
 * [ToDo List](https://github.com/praveenpkg8/todolist)
@@ -19,7 +19,7 @@ Learn more and contribute on [GitHub](https://github.com/praveenpkg8).
 
 ## On Terms
 
-I am MR. PRAVEEN KUMAR G, Junior Software Developer at FULL Creative. Finished my B.Tech Information Technology in Jeppiaar engineering college, Chennai. Besides academic, I have been involved in various activities of the Entrepreneurship cell and I was the CEO of entrepreneurship cell in my college. I have done interns in several organizations.
+I am MR. PRAVEEN KUMAR G, Full Stack Developer @ Mad Street Den. Finished my B.Tech Information Technology in Jeppiaar engineering college, Chennai. Besides academic, I have been involved in various activities of the Entrepreneurship cell and I was the CEO of entrepreneurship cell in my college. I have done interns in several organizations.
 
 I am an ambitious individual who is looking to broaden my career path. However, I am open with new challenges and am willing to work hard to reach my goals. I enjoy contributing new ideas, I am self motivated and an excellent team player, this is one of my technical key strength.I work well under pressure and understand the importance of time management.
 
@@ -35,9 +35,9 @@ I love to eat, play video games and travel whenever I can.
 
 #### EXPERIENCE GAINED:
 
-From college first year I was fascinated in programming languages and coding contest. I started to have Internship experience at the end semester of second year. 
+From college first year I was fascinated in programming languages and coding contest. I started to have Internship experience at the end semester of second year.
 
-Got exposure in Android application, how a **android application** would work in **Dotless Technology**. This gave me a confidence that I can build something up. I have designed a simple authentication application and activity navigation mechanism application. It was a one month internship period where I benefited learning this much.
+Got exposure in Android application, how an **android application** would work in **Dotless Technology**. This gave me a confidence that I can build something up. I have designed a simple authentication application and activity navigation mechanism application. It was a one month internship period where I benefited learning this much.
 
 At the start of third year of college, I was awarded a government tender for designing a online web portal to monitor enrolled colleges. **EDII - Entrepreneurship Development Institute of India** had a **AIEDP** program where many technical institution would enroll in it to have entrepreneurial experience. Application core architecture design is to track the colleges using activity they performed in a academic year. I was in the core committee for **drafting architecture of the project**. Developed **user interface** part with Angular.
 
