@@ -34,5 +34,6 @@ fields:
   label: type
 pages:
 - content/blog/my-first-hug-meetup.md
+- content/blog/programming-love.md
 - content/blog/pyorg.md
 - content/blog/simple-flask-application.md
