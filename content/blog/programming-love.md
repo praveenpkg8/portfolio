@@ -8,7 +8,7 @@ featuredalt = "coding"
 featuredpath = ""
 linktitle = ""
 title = "Programming Love"
-type = ""
+type = "post"
 
 +++
 People out there who are zero in tech could start with a simple programming language. My choice of language can be bias since I am partial towards specific languages. Pick a language of choice, but my preference would be.
