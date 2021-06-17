@@ -49,15 +49,15 @@ Out of interest I am also trying to develop a Nymeria a twitter bot which would 
 
 #### LEARNING TECH:
 
-**Developmental Languages  :** Python, JavaScript, TypeScript, Java, C, C++
+**Developmental Languages  :** Python, JavaScript, TypeScript, Java, C, C++, GO
 
 **Front-end development :** React, Angular, Web-pack, Bootstrap, HTML, CSS
 
 **Back-end Development :** Python-Flask, SQLAlchemy, Swagger
 
-**Cloud Technologies :** Google Cloud Platform, Fire Base
+**Cloud Technologies :** Google Cloud Platform, Fire Base, AWS
 
-**General Tech** : Git, Docker
+**General Tech** : Git, Docker, DataBricks
 
 #### MY CAPABILITY:
 
